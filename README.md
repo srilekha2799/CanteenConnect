@@ -4,6 +4,6 @@ https://www.figma.com/design/HhLeghn67kRz5sOzkbJrby/CanteenConnect?node-id=0-1&t
 ---
 ## Screenshots
 
-![Home](home.png)
-![Login](login.png)
-![Profile](profile.png)
+![Home](CanteenConnect/home.png)
+![Login](CanteenConnect/login.png)
+![Profile](CanteenConnect/profile.png)
